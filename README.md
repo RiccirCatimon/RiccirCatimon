@@ -12,10 +12,10 @@ I Am Currently A Sophmore Student Taking The **BS Information Technology** Progr
 
 ---
 
-### 🏆 Certifications
+## 🏆 Certifications
 
-* [SQL and "Relational Databases 101"](https://courses.cognitiveclass.ai/certificates/bb0847e0e6c94ea89f6e0d1f1570b314)
-* [SQL and "Oracle Cloud Infrastructure 2025"](https://catalog-education.oracle.com/pls/certview/sharedbadge?id=G4184873DE7E30E633BF6C5981448E4456759AF30E3524D536FCFD72E1A598B)
+* [SQL and "Relational Databases 101"](https://courses.cognitiveclass.ai/certificates/bb8847e0e6294ea89f6edb1f1570b314)
+* [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4104873D0E7E306A33BF8C50944B4443F67D9AF30E852AD63E0CFFD73AA53B8)
 ---
 
 ## 🛠️ My Popular Repositories
