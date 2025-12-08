@@ -14,6 +14,7 @@ I Am Currently A Sophmore Student Taking The **BS Information Technology** Progr
 
 ## 🏅 Certifications
 <a href="https://courses.cognitiveclass.ai/certificates/bb8847e0e6294ea89f6edb1f1570b314">SQL and "Relational Databases 101</a>
+<a href="[https://courses.cognitiveclass.ai/certificates/bb8847e0e6294ea89f6edb1f1570b314](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C4104873D0E7E306A33BF8C50944B4443F67D9AF30E852AD63E0CFFD73AA53B8)">SQL and "Relational Databases 101</a>
 ---
 
 ## 🛠️ My Popular Repositories
