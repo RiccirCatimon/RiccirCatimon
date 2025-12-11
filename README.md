@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/181920565?v=4" />
 # Hello! I'm Riccir Catimon !
 
 I Am Currently A Sophmore Student Taking The **BS Information Technology** Program.
